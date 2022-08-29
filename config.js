@@ -16,13 +16,13 @@ global.xteam = 'apivproject'
 global.lolhuman = 'yourkey'
 
 // Other
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.ownername = 'YahyaGanzz'
-global.botname = 'AzzBot•MD'
+global.owner = ['6283195792112']
+global.premium = ['6283195792112']
+global.ownername = 'Megumin'
+global.botname = 'Megumin-Bot'
 global.packname = '© YahyaGanzz'
 global.gc = 'https://github.com/AzzBott679'
-global.linkyt = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+global.linkyt = 'https://youtube.com/c/ENDERMUTE'
 global.linkgc = 'https://chat.whatsapp.com/CkguID8hSdSFAaBrKNHLSr'
 global.limitawal = '10'
 global.author = '@yahyaganzz\n@AzzBot'
